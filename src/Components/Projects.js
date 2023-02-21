@@ -8,6 +8,24 @@ const Projects = () => {
       github : "https://github.com/NANDIMANDALAM-SUNNY/codemate",
       description: "Codemate is a online html,css,js compiler with live preview.We can change the theme according to our requirement,and we can download or share the code with our friends"
       },
+      {
+        projectName : "NovoChat",
+        deployedUrl : "https://novo-chat.netlify.app/",
+        github : "https://github.com/NANDIMANDALAM-SUNNY/novoChat",
+        description: "Novo Chat is a MERN stack chatting web application, it connects people with ease and intuitive"
+        },
+        {
+          projectName : "Question2Answer",
+          deployedUrl : "https://question2answer.netlify.app/",
+          github : "https://github.com/NANDIMANDALAM-SUNNY/question2answer",
+          description: "Question2Answer is a websites where users can post questions and answer them it also includes a lot of chatGPT tools which is very useful for students"
+          },
+          {
+            projectName : "Boat-Clone",
+            deployedUrl : "https://boat-clone-by-sunny.netlify.app",
+            github : "https://github.com/NANDIMANDALAM-SUNNY/BoatClone-MERN",
+            description: "Here users can shop for audio products it also includes payment integration"
+            },
     {
       projectName : "CityMapper",
       deployedUrl : "https://citymapper.netlify.app/",
