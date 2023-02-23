@@ -8,7 +8,9 @@ const Skills = () => {
   {name:"React JS", val:"90"},
 {name:"Node Js",val:"90"},
 {name:"MongoDb",val:"75"},
-{name:"C/C++",val:"70"}]
+{name:"TypeScript",val:"60"},
+{name:"C/C++",val:"60"}
+]
   let SoftSkill = [
     {name:"Humanity",val:"100"},
     {name:"Communication",val:"90"},
