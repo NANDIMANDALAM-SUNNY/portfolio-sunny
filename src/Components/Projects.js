@@ -22,7 +22,7 @@ const Projects = () => {
           },
           {
             projectName : "Boat-Clone",
-            deployedUrl : "https://boat-clone-by-sunny.netlify.app",
+            deployedUrl : "http://boat-clone.s3-website-ap-northeast-1.amazonaws.com/",
             github : "https://github.com/NANDIMANDALAM-SUNNY/BoatClone-MERN",
             description: "Here users can shop for audio products it also includes payment integration"
             },
