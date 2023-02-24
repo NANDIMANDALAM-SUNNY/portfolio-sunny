@@ -21,8 +21,8 @@ const Experience = () => {
               <span><b>Roles & Responsibilities</b></span>
               <ul>
               <li>I started this internship in the month of November.</li>
-              <li>I have resolved over 700+ queries.</li>
-              <li> My job is to clear all the technical doubts of all the Zen class Students.</li>
+              <li>I have resolved over 1200+ queries.</li>
+              <li> My job is to clear all the errors and  doubts of all the Zen class Students.</li>
               <li>I have learnt a lot of new implementation and techniques in this internship.</li>
               </ul>
   

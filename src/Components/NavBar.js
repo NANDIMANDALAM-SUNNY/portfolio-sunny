@@ -18,7 +18,7 @@ const NavBar = () => {
                         <li className='nav-item'><a rel="noreferrer" className='nav-link navItems' href='#projects'>Projects</a></li>
                         <li className='nav-item'><a rel="noreferrer" className='nav-link navItems' href='#experience'>Experience</a></li>
                         <li className='nav-item'><a rel="noreferrer" className='nav-link navItems' href='#contact'>Contact</a></li>
-                        <li className='nav-item text-light'><a rel="noreferrer" className='nav-link navItems' href={pdfFile} download="NSunnyResume.pdf" target='_blank'>Download   <FaFileDownload/></a></li>
+                        <li className='nav-item'><a  className='nav-link navItems' href='https://drive.google.com/file/d/1kZuf1vbu2wNidlILyrVGQc89gLOVcEJD/view?usp=share_link' target="_blank" >Resume</a></li>
                     </ul>
                 </div>
             </div>
